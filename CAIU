@@ -1,1 +1,29 @@
-TENTA NÃO
+<channels>
+<channel>
+<name>FILMES</name>
+<thumbnail>https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/0d920358-1c79-4669-b107-2b22e0dd7dcd/d8nntky-04e9b7c7-1d09-44d8-8c24-855a19988294.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzBkOTIwMzU4LTFjNzktNDY2OS1iMTA3LTJiMjJlMGRkN2RjZFwvZDhubnRreS0wNGU5YjdjNy0xZDA5LTQ0ZDgtOGMyNC04NTVhMTk5ODgyOTQucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.To4Xk896HVjziIt-LjTSotZR0x7NVCbroAIkiSpik84</thumbnail>
+<externallink>https://raw.githubusercontent.com/RANKMOVE/NETOMOVE/main/FILMES</externallink>
+<fanart>https://www.comboinfinito.com.br/principal/wp-content/uploads/2020/09/Disney-Marvel-Viuva-Negra-896x504-1.jpg</fanart>
+<info>Os melhores do cinema</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>SERIES</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info></info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>DESENHOS</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info></info>
+</channel>
+</channels>
