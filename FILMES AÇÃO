@@ -1,5 +1,5 @@
-<channels>
-<channels>
+<channels></channels>
+<channel>
 <name>Viúva Negra (2021)</name>
 <thumbnail>https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/ad944474-48c3-4adb-9059-75d10eab21b9/ddvo0x0-3076dabf-b35c-42df-ae0e-d23149f70385.png</thumbnail>
 
@@ -24,6 +24,6 @@
 <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=bFMN_n97MJQ</trailer>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<info></info>
+<info>Ao nascer, a Viúva Negra, então conhecida como Natasha Romanova, é entregue à KGB, que a prepara para se tornar sua agente suprema. Porém, o seu próprio governo tenta matá-la quando a União Soviética se desfaz.</info>
 </item>
 </channels>
