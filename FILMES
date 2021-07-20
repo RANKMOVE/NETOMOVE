@@ -1,5 +1,15 @@
 <channels>
 <channel>
+<name>LANÇAMENTOS</name>
+<thumbnail>https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/0d920358-1c79-4669-b107-2b22e0dd7dcd/d8rlcey-401beb09-fd16-4f42-a244-8102a9a51743.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzBkOTIwMzU4LTFjNzktNDY2OS1iMTA3LTJiMjJlMGRkN2RjZFwvZDhybGNleS00MDFiZWIwOS1mZDE2LTRmNDItYTI0NC04MTAyYTlhNTE3NDMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.npkYQkAc1fW9JcxdvI7ftD6JY9f3-_VioYtyz0N8jJg</thumbnail>
+<externallink>https://raw.githubusercontent.com/RANKMOVE/NETOMOVE/main/FILMES%20DIVERSOS</externallink>
+<fanart>https://i2.wp.com/manualdosgames.com/wp-content/uploads/2021/01/Zona-de-Combate-1170x720.jpg</fanart>
+<info>Filmes de 2021</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
 <name>AÇÃO</name>
 <thumbnail>https://cdn.icon-icons.com/icons2/965/PNG/512/Action_icon-icons.com_74657.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/RANKMOVE/NETOMOVE/main/FILMES%20A%C3%87%C3%83O</externallink>
@@ -25,16 +35,6 @@
 <externallink></externallink>
 <fanart>https://www.dicasdemulher.com.br/wp-content/uploads/2019/02/filmes-de-drama-1-1200x738.jpg</fanart>
 <info>Filmes de drama</info>
-</channel>
-</channels>
-
-<channels>
-<channel>
-<name>LANÇAMENTOS</name>
-<thumbnail>https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/0d920358-1c79-4669-b107-2b22e0dd7dcd/d8rlcey-401beb09-fd16-4f42-a244-8102a9a51743.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzBkOTIwMzU4LTFjNzktNDY2OS1iMTA3LTJiMjJlMGRkN2RjZFwvZDhybGNleS00MDFiZWIwOS1mZDE2LTRmNDItYTI0NC04MTAyYTlhNTE3NDMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.npkYQkAc1fW9JcxdvI7ftD6JY9f3-_VioYtyz0N8jJg</thumbnail>
-<externallink>https://raw.githubusercontent.com/RANKMOVE/NETOMOVE/main/FILMES%20DIVERSOS</externallink>
-<fanart>https://i2.wp.com/manualdosgames.com/wp-content/uploads/2021/01/Zona-de-Combate-1170x720.jpg</fanart>
-<info>Filmes de 2021</info>
 </channel>
 </channels>
 
